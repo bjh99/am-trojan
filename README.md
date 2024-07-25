@@ -1,12 +1,14 @@
 # am-trojan
+https://github.com/ansoncloud8/am-trojan
+
 这是基于CF平台的脚本，部署Trojan 配置信息转换为订阅内容。可以方便地将 Trojan 节点配置信息转换到 Clash 或 Singbox 或Quantumult X等工具中。
 
 - 视频教程：[小白教程](https://www.youtube.com/watch?v=1ixc2A9rchM) 
 
-- AM科技官网：[https://am.809098.xyz](官网)
-- YouTube：[https://youtube.com/@AM_CLUB](AM科技)
-- Telegram：[https://t.me/AM_CLUBS](AM_CLUBS)
-- Github：[https://github.com/ansoncloud8](ansoncloud8)
+- 官网教程：[AM科技](https://am.809098.xyz)
+- YouTube频道：[@AM_CLUB](https://youtube.com/@AM_CLUB)
+- Telegram交流群：[@AM_CLUBS](https://t.me/AM_CLUBS)
+- 免费订阅：[进群发送关键字: 订阅](https://t.me/AM_CLUBS)
 
 # 免责声明
 
@@ -75,11 +77,11 @@
 ## Pages 上传 部署方法
 
 1. 部署 CF Pages：
-   - 下载 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件，并点上 Star !!!
-   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件后点击 `部署站点`。
+   - 下载 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件，并点上 Star !!!
+   - 在 CF Pages 控制台中选择 `上传资产`后，为你的项目取名后点击 `创建项目`，然后上传你下载好的 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件后点击 `部署站点`。
    - 部署完成后点击 `继续处理站点` 后，选择 `设置` > `环境变量` > **制作**为生产环境定义变量 > `添加变量`。
      变量名称填写**PASSWORD**，值则为你的密码，后点击 `保存`即可。
-   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/worker.zip) 文件后点击 `保存并部署` 即可。
+   - 返回 `部署` 选项卡，在右下角点击 `创建新部署` 后，重新上传 [worker.zip](https://raw.githubusercontent.com/ansoncloud8/am-trojan/main/_worker.js.zip) 文件后点击 `保存并部署` 即可。
 
 2. 添加优选线路:
 
@@ -198,6 +200,14 @@
   /socks://dXNlcjpwYXNzd29yZA==@127.0.0.1:1080
   /socks5://user:password@127.0.0.1:1080
   ```
+
+ # 
+<details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+*我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+  
+- **TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
+  
+</details>
 
 ## Star 星星走起
 
